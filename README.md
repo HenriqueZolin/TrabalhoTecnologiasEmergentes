@@ -134,6 +134,7 @@ evitar ifs aninhados), e forçar a explicitação do raciocínio intermediário 
 final reduz erros de decisão nesse tipo de tarefa, o mesmo racional usado por WEI et al.
 (2022), citado no material da disciplina.
 
+
 **Few-shot (na definição de preços).** O `CLAUDE.md` fornece uma tabela com 4 pares
 entrada/saída concretos para `calcularPreco` (1 consultor → R$197; 3 consultores/120 clientes
 → R$397; 5 consultores/210 clientes → R$695; 10 consultores → "Fale com vendas") em vez de
@@ -143,7 +144,8 @@ detalhes fáceis de errar só com uma descrição textual, mas ficam inequívoco
 exemplo numérico esperado para validar contra. Os 4 exemplos da tabela foram usados como
 casos de teste automatizados (`lib/pricing.test.ts`) para validar a implementação.
 
-<!-- INSERIR PRINT do raciocínio CoT gerado -->
+<img width="828" height="781" alt="image" src="https://github.com/user-attachments/assets/9fdca7c7-5071-4290-b004-faa9a3fbd8d5" />
+<img width="820" height="279" alt="image" src="https://github.com/user-attachments/assets/464ba87c-231b-4832-915b-aa76825db609" />
 
 ## 4. Teste de curadoria de contexto
 
@@ -156,17 +158,28 @@ casos de teste automatizados (`lib/pricing.test.ts`) para validar a implementaç
 
 ## 5. Chamadas desta sessão
 
-<!-- PREENCHER com dados do /cost -->
+Claude Code usage report (2026-08-19T17:28:58.650Z)
+Client: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.18286.0 Chrome/148.0.7778.271 Electron/42.5.1 Safari/537.36
 
-| # | Chamada | Tokens de entrada | Tokens de saída | Custo estimado |
-|---|---|---|---|---|
-| | | | | |
+Plan limits:
+- session-0: 16% (resets 2026-08-19T21:00:00.097384+00:00)
+- weekly_all-1: 5% (resets 2026-08-24T17:00:00.097403+00:00)
 
-**Custo total estimado:** <!-- PREENCHER com dados do /cost -->
+Session:
+- Sonnet 5: 21.6k in / 1.8k out / 15.1M cache read / 405.2k cache write
+- Cost: $4.26 | API 10m | Wall 22m
+
+Local activity: 132 requests (24h) | 564 (7d)
 
 ## 6. Print/export do dashboard ou log da ferramenta
 
-<!-- INSERIR print/export do dashboard ou log da ferramenta usada -->
+### Log da geração do sistema
+
+<img width="882" height="755" alt="image" src="https://github.com/user-attachments/assets/4f7b1e06-c51a-4375-96de-bd4dd7e33323" />
+<img width="838" height="741" alt="image" src="https://github.com/user-attachments/assets/26cc286e-3e82-4196-8273-19b7bbb6b11c" />
+<img width="811" height="752" alt="image" src="https://github.com/user-attachments/assets/7a93d3ea-6fe6-4355-88d3-5564a6a3e8aa" />
+<img width="820" height="811" alt="image" src="https://github.com/user-attachments/assets/d383f4a2-478e-405d-b016-d34e36251d86" />
+
 
 ## 7. URL publicada
 
@@ -174,7 +187,9 @@ casos de teste automatizados (`lib/pricing.test.ts`) para validar a implementaç
 
 ## 8. Integrantes
 
-<!-- PREENCHER: nomes e RA dos integrantes -->
+Henrique Zolin Medeiros | 23167579-2
+Rafael Farah Gebara |
+Caio Carneiro Germani | 23155074-2
 
 ---
 
