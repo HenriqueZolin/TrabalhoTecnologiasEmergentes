@@ -151,10 +151,14 @@ casos de teste automatizados (`lib/pricing.test.ts`) para validar a implementaç
 
 <!-- PREENCHER após protocolo pós-build -->
 
-| Abordagem | Arquivo(s) fornecido(s) como contexto | Tokens de entrada |
+| Abordagem | Arquivo(s) fornecido(s) como contexto | Tokens de entrada
 |---|---|---|
-| Arquivo inteiro | | |
-| Trecho relevante | | |
+| Arquivo inteiro | lib/pricing.ts (arquivo completo) | 12.1k
+| Trecho relevante | apena função calcularPreco e precoEquipe | 6.1k
+
+Trecho inteiro: <img width="386" height="570" alt="image" src="https://github.com/user-attachments/assets/43cd388d-c58a-4260-beac-2e0c00af25d2" />
+Trecho Relevante: <img width="433" height="621" alt="image" src="https://github.com/user-attachments/assets/d7e17580-9035-4f2b-b39c-08178b37c341" />
+
 
 ## 5. Chamadas desta sessão
 
