@@ -187,7 +187,7 @@ Local activity: 132 requests (24h) | 564 (7d)
 
 ## 7. URL publicada
 
-<!-- PREENCHER: URL publicada pela equipe de deploy -->
+https://trabalho-tecnologias-emergente--pokedex-f2d4e.us-east4.hosted.app/planos
 
 ## 8. Integrantes
 
