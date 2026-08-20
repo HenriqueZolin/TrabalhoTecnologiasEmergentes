@@ -162,6 +162,8 @@ Trecho Relevante: <img width="433" height="621" alt="image" src="https://github.
 
 ## 5. Chamadas desta sessão
 
+### Obtido pelo /cost
+
 Claude Code usage report (2026-08-19T17:28:58.650Z)
 Client: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.18286.0 Chrome/148.0.7778.271 Electron/42.5.1 Safari/537.36
 
@@ -174,6 +176,11 @@ Session:
 - Cost: $4.26 | API 10m | Wall 22m
 
 Local activity: 132 requests (24h) | 564 (7d)
+
+
+### Obtido pelos arquivos do claude
+
+<img width="770" height="503" alt="image" src="https://github.com/user-attachments/assets/87f7dab2-750f-45fe-b386-c1f4c00410f9" />
 
 ## 6. Print/export do dashboard ou log da ferramenta
 
