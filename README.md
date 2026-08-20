@@ -190,7 +190,7 @@ Local activity: 132 requests (24h) | 564 (7d)
 - Henrique Zolin Medeiros | 23167579-2
 - Rafael Farah Gebara | 23000455-2
 - Caio Carneiro Germani | 23155074-2
-- Paulo
+- Paulo Henrique Basso Bessa | 26005799-2
 
 ---
 
